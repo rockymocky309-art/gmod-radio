@@ -1,0 +1,19 @@
+{
+    "title": "🎵 GMod MP3 Radio Player",
+    "description": "Beautiful radio player for GMod with 3D sound, audio visualizer, equalizer, and multiplayer support.",
+    "version": "1.0.0",
+    "author": "rockymocky309-art",
+    "tags": [
+        "radio",
+        "music",
+        "player",
+        "sound",
+        "3d audio",
+        "ui",
+        "entertainment"
+    ],
+    "ignore": [
+        "*.git*",
+        "*.md"
+    ]
+}
